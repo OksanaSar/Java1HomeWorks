@@ -2,7 +2,7 @@
 *Java1Homework7
 *
 *@author Sarycheva Oksana
-*@version 19.04.2022
+*@version 25.04.2022
 */
 
 class Java1HomeWork7 {
